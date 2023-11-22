@@ -7,16 +7,19 @@ DESCOBRE O MAIOR VALOR LIDO E DIZ SUA POSICAO
 
 //=========================================================================//
 //-------------------Ex2: MATRIZ ELEMENTOS MAIOR E MENOR-------------------//
+
 REQUISITOS:
 CRIA UMA MATRIZ E O PREENCHE E AO FIM, MOSTRA O MAIOR E MENOR ELEMENTOS, E SUA RESPECTIVA POSIÇÃO
 
 //===========================================================================//
 //-------------------Ex3: CONTROLE DE ESTOQUE EM VETORES---------------------//
+
 REQUISITOS:
 PREENCHE UM VETOR COM AS VENDAS DE UM DETERMINADO SETOR EM DETERMINADOS DIAS N, E AO FIM, MOSTRA O DIA COM MAIOR VENDA, MENENOR VENDA, VOLUME MEDIO DE VENDA E VALOR TOTAL VENDIDO
 
 
 //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-ESTRUTURA DE DADOS-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-//
+//==========================================================//
 Ex4: VETORES
 REQUISITOS:
 
