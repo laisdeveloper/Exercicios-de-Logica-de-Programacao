@@ -4,6 +4,7 @@ Conjunto de algoritmos em linguagem C, de diferentes problemas, reunidos em um r
 
 //=========================================================================//
 //-------------------------Ex1: MAIOR ELEMENTO-----------------------------//
+
 REQUISITOS:
 DESCOBRE O MAIOR VALOR LIDO E DIZ SUA POSICAO
 
@@ -20,8 +21,8 @@ REQUISITOS:
 PREENCHE UM VETOR COM AS VENDAS DE UM DETERMINADO SETOR EM DETERMINADOS DIAS N, E AO FIM, MOSTRA O DIA COM MAIOR VENDA, MENENOR VENDA, VOLUME MEDIO DE VENDA E VALOR TOTAL VENDIDO
 
 
-//-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-ESTRUTURA DE DADOS-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-//
-//==========================================================//
+//-=-=-=-=-=-=-=-=-=-=-=-=-=ESTRUTURA DE DADOS-=-=-=-=-=-=-=-=-=--=-=-=-=-=-//
+
 Ex4: VETORES
 REQUISITOS:
 
@@ -79,8 +80,8 @@ REQUISITOS:
 EX17: HISTOGRAMA
 REQUISITOS:
 
-//=========================================================================================//
-//------------------------------------EX18: STRUCT LIVRO-----------------------------------//
+//================================================================//
+//----------------------EX18: STRUCT LIVRO--------- --------------//
 REQUISITOS:  
 Defina um ponteiro para uma struct capaz de armazenar dados sobre um livro. O registro contém os seguintes dados: nome, ISBN, preco, avaliacao e editora. Usando este registro faça:
 Uma função que aloque o(s) livro(s) e devolva um ponteiro para o bloco de livro(s). Obs: a função deve receber a quantidade de livros a ser alocada.
@@ -96,8 +97,8 @@ Preço: R$ 34.90
 Avaliação: 4,9
 Editora: Record
 
-//==========================================================================================//
-//------------------------------------EX19: TAD LIVRO---------------------------------------//
+//=======================================================//
+//----------------------EX19: TAD LIVRO------------------//
 REQUISITOS:
 Reescreva o algoritmo construído anteriormente criando um Tipo Abstrato de Dados chamado TADLivro. Obs: criei os arquivos das estruturas para o TAD para que você migre seu código anterior no formado do tipo abstrado.
 ------------------- Definição anterior -----------------
@@ -115,8 +116,8 @@ Preço: R$ 34.90
 Avaliação: 4,9
 Editora: Record
 
-//===============================================================================================//
-//-------------------------------------EX20: TAD CPF---------------------------------------------//
+//========================================================//
+//---------------------EX20: TAD CPF----------------------//
 REQUISITOS:
 O Cadastro Nacional de Pessoal Física (CPF) é um número que identifica de forma única um brasileiro e lhe assegura direitos enquanto cidadão. Ele é composto por 11 dígitos, sendo que os dois últimos correspondem ao dígito verificador.
 Crie um T.A.D chamado CPF contendo uma estrutura capaz de manipular esse tipo abstrato. Nele, insira as seguintes funcionalidades:
