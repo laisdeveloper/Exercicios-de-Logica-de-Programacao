@@ -3,26 +3,26 @@
 
 
 
-# *//-=-=-=-=-=-=-=-=-=-=-=-=-= Exemplos Simples-=-=-=-=-=-=-=-=-=--=-=-=-=-=-//*
+# *//-=-=-=-=-=-=-=-=-= Exemplos Simples-=-=-=-=-=-=-=-=-=--=-=//*
 
 //================================================================================//
-### **//-------------------------Ex1: MAIOR ELEMENTO-----------------------------//**
+### *Ex1: MAIOR ELEMENTO*
 ### *REQUISITOS:*
 - DESCOBRE O MAIOR VALOR LIDO E DIZ SUA POSICAO
 
 //=================================================================================//
-### **//-------------------Ex2: MATRIZ ELEMENTOS MAIOR E MENOR-------------------//**
+### *Ex2: MATRIZ ELEMENTOS MAIOR E MENOR*
 ### *REQUISITOS:*
 - CRIA UMA MATRIZ E O PREENCHE E AO FIM, MOSTRA O MAIOR E MENOR ELEMENTOS, E SUA RESPECTIVA POSIÇÃO
 
 //==============================================================================//
-### **//-------------------Ex3: CONTROLE DE ESTOQUE EM VETORES---------------------//**
+### *Ex3: CONTROLE DE ESTOQUE EM VETORES*
 ### *REQUISITOS:*
 - PREENCHE UM VETOR COM AS VENDAS DE UM DETERMINADO SETOR EM DETERMINADOS DIAS N, E AO FIM, MOSTRA O DIA COM MAIOR VENDA, MENENOR VENDA, VOLUME MEDIO DE VENDA E VALOR TOTAL VENDIDO
 
 
 
-# *//-=-=-=-=-=-=-=-=-=-=-=-=-=ESTRUTURA DE DADOS-=-=-=-=-=-=-=-=-=--=-=-=-=-=-//*
+# *//-=-=-=-=-=-=-=-=-= ESTRUTURA DE DADOS -=-=-=-=-=-=-=-=-=-//*
 
 //==========================================++++================================//
 ### Ex4: VETORES
@@ -32,7 +32,7 @@ Obs: seu algoritmo não deve mostrar mensagens de interação com o usuário, po
 Etapas: 1. Leia o número de dias; 2. Para cada dia, leia o volume das vendas; 3. Mostre para o gerente os dados solicitados.
 
 //==================================================================================//
-### X5: MATRIZES
+### EX5: MATRIZES
 ### *REQUISITOS:*
 - Você é um desenvolvedor trabalhando em um sistema que gerencia uma agenda de atendimentos para um consultório odontológico. O gerente precisa monitorar os horários vagos da agenda para tentar encaixar pacientes. Ao mesmo tempo, ele precisa saber a distribuição dos atendimentos especialistas em cada dia para melhor organizar o revesamento dos profissionais. Sua missão é escrever um programa capaz de ler uma matriz de tamanho fixo para representar os atendimentos de segunda à sábado. As marcações dos atendimentos consideram que cada atendimento demora 1 hora, limitado a 6 horas por dia. A estrutura deve armazenar qual a especialidade agendada. Os especialistas possíveis são:
 1.Clinico geral
@@ -90,31 +90,31 @@ Implemente um algoritmo com uma função recursiva para calcular o MDC dos valor
 
 //====================================================================================//
 ### EX11: VETOR DINAMICO
-### Equipe: Lais, Rosana, Vinicius
+##### Equipe: Lais, Rosana, Vinicius
 ### *REQUISITOS:*
 - Crie um programa modularizado capaz de alocar dinamicamente um vetor de números reais de tamanho n definidos durante a execução do programa. Nesse vetor, serão armazenados a altura de n pessoas e que deverão ser lidos pelo teclado. Ao final, o programa deve imprimir a maior, a menor e a média das alturas. Obs: precisão de 2 casas decimais.
 
 //==================================================================================//
 ### EX12: INVERSAO DINAMICA
-### Equipe: Lais, Claudia
+##### Equipe: Lais, Claudia
 ### *REQUISITOS:*
 - Escreva um programa capaz de alocar dinamicamente valores inteiros positivos. O programa deve ler um número inteiro positivo n e em seguida n números inteiros. Imprima esses n números em ordem invertida. Não esqueça de desalocar a memória usada.
 
 //=======================================================================================//
 ### EX13: SOMA DINAMICA
-### Equipe: Lais, Claudia
+##### Equipe: Lais, Claudia
 ### *REQUISITOS:*
 - Crie um programa que aloca dinamicamente um vetor de inteiros de tamanho n (informado pelo usuário). Todos os n números devem ser inseridos pelo usuário, um a um. Ao final, o programa deve calcular e imprimir a soma de todos os valores.
 
 //====================================================================================//
 ### EX14: PARES E IMPARES
-### Equipe: Lais, Claudia
+##### Equipe: Lais, Claudia
 ### *REQUISITOS:*
 - Faça um programa que aloque memória para n inteiros inseridos pelo usuário. Em seguida, mostre quantos dos números são pares e quantos são ímpares.
 
 //=============================================================================================//
 ### EX15: MATRIZ DINAMICA
-### Equipe: Lais, Claudia
+##### Equipe: Lais, Claudia
 ### *REQUISITOS:*
 - Construa um programa modularizado que:
 Aloque dinamicamente uma matriz quadrada de ordem n x n (linha por coluna) (n lido pelo teclado)
@@ -125,7 +125,7 @@ Desaloque a memória alocada para a matriz
 
 //=====================================================================================//
 ### EX16: MATRIZ IDENTIDADE
-### Equipe: Lais, Claudia
+##### Equipe: Lais, Claudia
 ### *REQUISITOS:*
 - Crie um programa modularizado para:
 Alocar uma matriz de dimensão nxn, em que n é determinado pelo usuário.
@@ -135,7 +135,7 @@ Desalocar a memória utilizada
 
 //==========================================================================================//
 ### EX17: HISTOGRAMA
-### Equipe: Lais, Claudia, Rosana
+##### Equipe: Lais, Claudia, Rosana
 ### *REQUISITOS:*
 - Faça um programa modularizado que leia e construa a seguinte tabela de histogramas:
 Elemento Valor Histograma A 4 ∗∗∗∗ B 2 ∗∗ C 8 ∗∗∗∗∗∗∗∗ D 12 ∗∗∗∗∗∗∗∗∗∗∗∗ E 1 ∗ Soma 27 ***************************
@@ -143,7 +143,7 @@ A quantidade de elementos (n) deve ser lida no programa principal. A quantidade 
 Obs: Todas as impressões devem ser feitas em função(ões) específica(s) para impressão na tela. Jamais dentro da função que constrói ou lê dados. A(s) função(ões) para impressão devem receber a estrutura de dados como parâmetro para então percorrer e imprimir os dados.
 
 //=========================================================================================//
-### //----------------------EX18: STRUCT LIVRO--------- --------------//
+### EX18: STRUCT LIVRO
 ### *REQUISITOS:*  
 - Defina um ponteiro para uma struct capaz de armazenar dados sobre um livro. O registro contém os seguintes dados: nome, ISBN, preco, avaliacao e editora. Usando este registro faça:
 Uma função que aloque o(s) livro(s) e devolva um ponteiro para o bloco de livro(s). Obs: a função deve receber a quantidade de livros a ser alocada.
@@ -153,12 +153,12 @@ Uma função que desaloque os dados do livro lido.
 Inicialmente, a primeira leitura deve informar quantos livros serão inseridos. Em seguida, a leitura de cada livro deve seguir a mesma ordem dos campos acima descritos.
 
 //===========================================================================================//
-### //----------------------EX19: TAD LIVRO------------------//
+### EX19: TAD LIVRO
 ### *REQUISITOS:*
 - Reescreva o algoritmo construído anteriormente criando um Tipo Abstrato de Dados chamado TADLivro. Obs: criei os arquivos das estruturas para o TAD para que você migre seu código anterior no formado do tipo abstrado.
 
 //=====================================================================================//
-### //---------------------EX20: TAD CPF----------------------//
+### EX20: TAD CPF
 ### *REQUISITOS:*
 - O Cadastro Nacional de Pessoal Física (CPF) é um número que identifica de forma única um brasileiro e lhe assegura direitos enquanto cidadão. Ele é composto por 11 dígitos, sendo que os dois últimos correspondem ao dígito verificador.
 Crie um T.A.D chamado CPF contendo uma estrutura capaz de manipular esse tipo abstrato. Nele, insira as seguintes funcionalidades:
@@ -172,7 +172,7 @@ Os comandos possíveis são:
 -v : valida ou invalida o CPF lido
 
 //=============================================================================//
-### //-----------------------------------EX21: IMPLEMENTAÇÃO PILHA---------------------------------------//
+### EX21: IMPLEMENTAÇÃO PILHA
 ### *REQUISITOS:*
 - Implemente um tipo abstrato de dados do tipo “Pilha" chamado TPilha.
 Este deve manipular dados do tipo char e oferecer os seguintes serviços:
@@ -190,7 +190,7 @@ Seu programa deve ler como comandos de entrada e seus respectivos valores (separ
 Obs: após a execução do comando "-s", o programa deve ser encerrado.
 
 //================================================================================//
-### //---------------------------------------EX22: IMPLEMENTAÇÃO FILA----------------------------------//
+### EX22: IMPLEMENTAÇÃO FILA
 ### *REQUISITOS:*
 - Implemente um tipo abstrato de dados do tipo “Fila", chamado TFila.
 Este deve manipular dados do tipo int e oferecer os seguintes serviços:
@@ -208,7 +208,7 @@ Seu programa deve ler como comandos de entrada e seus respectivos valores (separ
 Obs: após a execução do comando "-s", o programa deve ser encerrado.
 
 //===============================================================================//
-### //-------------------------------------EX23: IMPLEMENTAÇÃO LISTA SIMPLESMENTE ENCADEADA------------------------//
+### EX23: IMPLEMENTAÇÃO LISTA SIMPLESMENTE ENCADEADA
 ### *REQUISITOS:*
 - Crie um tipo abstrato de dados para manipulação de uma Lista Simplesmente Encadeada. A Lista deve ser capaz de manipular dados do tipo int.
 Atente para os requisitos solicitados e implemente as funcionalidades desejadas.
@@ -226,7 +226,7 @@ Seu programa deve ser capaz de ler como comandos de entrada os possíveis valore
 O comando -s deve exibir a lista e encerrar o programa.
 
 //====================================================================================//
-### //----------------------------------EX24: IMPLEMENTAÇÃO LISTA SIMPLESMENTE ENCADEADA CIRCULAR--------------------//
+### EX24: IMPLEMENTAÇÃO LISTA SIMPLESMENTE ENCADEADA CIRCULAR
 ### *REQUISITOS:*
 - Crie um tipo abstrato de dados para manipulação da Lista Simplesmente Encadeada Circular.
 Atenção! A lista deve armazenar dados do tipo float.
@@ -245,7 +245,7 @@ Seu programa que deve ser capaz de ler como comandos de entrada os possíveis va
 O comando -s deve exibir a lista e encerrar o programa.
 
 //==========================================================================================//
-### //------------------------------------------EX25: IMPLEMENTAÇÃO LISTA DUPLAMENTE ENCADEADA---------------------------//
+### EX25: IMPLEMENTAÇÃO LISTA DUPLAMENTE ENCADEADA
 ### *REQUISITOS:*
 - Crie um tipo abstrato de dados para manipulação de uma Lista Duplamente Encadeada. A Lista deve ser capaz de manipular dados do tipo char.
 Atente para os requisitos solicitados e implemente as funcionalidades desejadas.
@@ -263,7 +263,7 @@ Seu programa deve ser capaz de ler como comandos de entrada os possíveis valore
 O comando -s deve exibir a lista e encerrar o programa.
 
 //==========================================================================================//
-### //---------------------------------------EX26: IMPLEMENTAÇÃO LISTRA DUPLAMENTE ENCADEADA CIRCULAR-------------------------//
+### EX26: IMPLEMENTAÇÃO LISTRA DUPLAMENTE ENCADEADA CIRCULAR
 ### *REQUISITOS:*
 - Crie um tipo abstrato de dados para manipulação da Lista Duplamente Encadeada Circular.
 Atenção! A lista deve armazenar dados do tipo int.
@@ -281,4 +281,4 @@ Seu programa que deve ser capaz de ler como comandos de entrada os possíveis va
 -sg < valor > : exibe a quantidade de elementos da lista são maiores que o valor especificado
 O comando -s deve exibir a lista e encerrar o programa.
 
-//=====================================================================================================================//
+//=======================================================================================================//
