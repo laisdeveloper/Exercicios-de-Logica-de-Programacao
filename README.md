@@ -45,17 +45,17 @@ Isso é um compilado de algumas das atividades que foram desenvolvidas na plataf
 
 - <strong>Questão 9 - Soma Recursiva:</strong> <br> Escreva uma função recursiva que calcule a soma dos dígitos de um inteiro positivo n.
 
--<strong> Questão 10 - Exponenciação Recursiva: <br> Sendo xn = x * x(n-1), faça um algoritmo que utilize uma função recursiva para calcular a potência de um número qualquer (recebido como parâmetro).  <br>Receba como parâmetro da função os valores de x e n.
+- <strong> Questão 10 - Exponenciação Recursiva: <br> Sendo xn = x * x(n-1), faça um algoritmo que utilize uma função recursiva para calcular a potência de um número qualquer (recebido como parâmetro).  <br>Receba como parâmetro da função os valores de x e n.
 
--<strong> Questão 11 - Vetor Dinâmico:</strong> <br> Crie um programa modularizado capaz de alocar dinamicamente um vetor de números reais de tamanho n definidos durante a execução do programa.  <br>Nesse vetor, serão armazenados a altura de n pessoas e que deverão ser lidos pelo teclado.  <br>Ao final, o programa deve imprimir a maior, a menor e a média das alturas. Obs: precisão de 2 casas decimais.
+- <strong> Questão 11 - Vetor Dinâmico:</strong> <br> Crie um programa modularizado capaz de alocar dinamicamente um vetor de números reais de tamanho n definidos durante a execução do programa.  <br>Nesse vetor, serão armazenados a altura de n pessoas e que deverão ser lidos pelo teclado.  <br>Ao final, o programa deve imprimir a maior, a menor e a média das alturas. Obs: precisão de 2 casas decimais.
 
--</trong> Questão 12 - Inversao Dinamica:</strong> <br> Escreva um programa capaz de alocar dinamicamente valores inteiros positivos.  <br>O programa deve ler um número inteiro positivo n e em seguida n números inteiros.  <br>Imprima esses n números em ordem invertida. Não esqueça de desalocar a memória usada.
+- </trong> Questão 12 - Inversao Dinamica:</strong> <br> Escreva um programa capaz de alocar dinamicamente valores inteiros positivos.  <br>O programa deve ler um número inteiro positivo n e em seguida n números inteiros.  <br>Imprima esses n números em ordem invertida. Não esqueça de desalocar a memória usada.
 
 - <strong>Questão 13 - Soma Dinamica:</strong> <br> Crie um programa que aloca dinamicamente um vetor de inteiros de tamanho n (informado pelo usuário).  <br>Todos os n números devem ser inseridos pelo usuário, um a um.  <br>Ao final, o programa deve calcular e imprimir a soma de todos os valores.
 
 - <strong>Questão 14 - Pares e Impares:</strong><br> Faça um programa que aloque memória para n inteiros inseridos pelo usuário.  <br>Em seguida, mostre quantos dos números são pares e quantos são ímpares.
 
--<strong> Questão 15 - Matriz Dinamica: </strong><br> Construa um programa modularizado que: Aloque dinamicamente uma matriz quadrada de ordem n x n (linha por coluna) (n lido pelo teclado)  <br>Leia os valores para preencher a matriz  <br>Multiplique os valores da diagonal principal.  <br>Mostre o valor da multiplicação Desaloque a memória alocada para a matriz
+- <strong> Questão 15 - Matriz Dinamica: </strong><br> Construa um programa modularizado que: Aloque dinamicamente uma matriz quadrada de ordem n x n (linha por coluna) (n lido pelo teclado)  <br>Leia os valores para preencher a matriz  <br>Multiplique os valores da diagonal principal.  <br>Mostre o valor da multiplicação Desaloque a memória alocada para a matriz
 
 - <strong>Questão 16 - Matriz Identidade: </strong><br> Crie um programa modularizado para: Alocar uma matriz de dimensão nxn, em que n é determinado pelo usuário.  <br>Povoar a matriz gerada de modo que ela torne-se uma matriz identidade (matriz quadrada em que os elementos da diagonal principal são iguais a 1 e os demais elementos são iguais a 0)  <br>Mostrar a matriz resultante Desalocar a memória utilizada
 
