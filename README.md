@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>Um repositório com ideias de exercicios para praticar C e lógica! 🎉</p>
-  <p>Aqui você encontrará informações de cada projeto, tecnologias utilizadas, instruções para configurar o ambiente de desenvolvimento e muito mais.</p>
+  <p>Aqui você encontrará informações de cada projeto, a visao/proposta geral desse repositorio e muito mais.</p>
   <p>Explore, colabore e divirta-se! 😄</p>
 </div>
 
@@ -21,13 +21,13 @@
 
 ## 🔭 Visão Geral
 
-Esse repositorio foi criado com o objetivo de ajudar outras pessoas que queiram ingressar na área de tecnologia e desejam praticar seus conhecimentos iniciais em Lógica Para Programação, aqui terá a descrição de cada questao, e as resolução estará nesse repositorios referente ao numero da questao, todas em C.
+Esse repositorio foi criado com o objetivo de ajudar outras pessoas que queiram ingressar na área de tecnologia e desejam praticar seus conhecimentos iniciais em Lógica Para Programação, aqui terá a descrição de cada questao, e a resolução estará nesse repositorio referente ao numero da questao, todas em linguagem C.
 <br>
 Isso é um compilado de algumas das atividades que foram desenvolvidas na plataforma Replit, durante o meu 2 semestre da faculdade de Ciências da Computação, no Instituto Federal do Ceará, semestre 2023.2
 
 ## 💻 Questões
 
-- Questão 1 - Maior Elemento: <br> Descobrir o maior valor lido e sua respectiva posição.
+- <strong>Questão 1 - Maior Elemento:</strong> <br> Descobrir o maior valor lido e sua respectiva posição.
   
 - Questão 2 - Matriz Elementos maior e menor: <br> Cria uma matriz e o preenche. Ao fim, mostra o maior e o menor valor entre os elementos, e sua respectiva posição.
 
@@ -73,7 +73,3 @@ Em alguns exercicios citados, durante o meu semestre, foi realizado com a partic
 Nos exercicios 12, 13, 14, 15, 16, minha colega Claudia colaborou com o desenvolvimento. <br>
 Nos exericios 11 e 17, foi com minha colega Rosana. <br> <br>
 Obrigada pelo apoio!!
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT LICENSE]. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações sobre os termos de licenciamento.
