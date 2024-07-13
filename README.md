@@ -45,7 +45,7 @@ Isso é um compilado de algumas das atividades que foram desenvolvidas na plataf
 
 - <strong>Questão 9 - Soma Recursiva:</strong> <br> Escreva uma função recursiva que calcule a soma dos dígitos de um inteiro positivo n.
 
-- <strong> Questão 10 - Exponenciação Recursiva: <br> Sendo xn = x * x(n-1), faça um algoritmo que utilize uma função recursiva para calcular a potência de um número qualquer (recebido como parâmetro).  <br>Receba como parâmetro da função os valores de x e n.
+- <strong> Questão 10 - Exponenciação Recursiva: </strong><br> Sendo xn = x * x(n-1), faça um algoritmo que utilize uma função recursiva para calcular a potência de um número qualquer (recebido como parâmetro).  <br>Receba como parâmetro da função os valores de x e n.
 
 - <strong> Questão 11 - Vetor Dinâmico:</strong> <br> Crie um programa modularizado capaz de alocar dinamicamente um vetor de números reais de tamanho n definidos durante a execução do programa.  <br>Nesse vetor, serão armazenados a altura de n pessoas e que deverão ser lidos pelo teclado.  <br>Ao final, o programa deve imprimir a maior, a menor e a média das alturas. Obs: precisão de 2 casas decimais.
 
